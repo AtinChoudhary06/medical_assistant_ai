@@ -5,7 +5,12 @@ A production-ready **Medical AI Assistant** built using **FastAPI, LangChain, Pi
 Instead of relying solely on an LLM's pre-trained knowledge, the system implements **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from uploaded medical literature and generate accurate, context-aware responses with source references.
 
 ---
+🔗 **Live Demo:** [https://medical-assistant-ai-ncny.onrender.com](https://medical-assistant-ai-ncny.onrender.com)
 
+
+  ## 📸 Preview
+
+   ![Medical Assistant AI Demo](medical.png)
 ## 🚀 Overview
 
 Medical professionals, students, and researchers often need to extract specific information from lengthy medical documents.
